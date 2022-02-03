@@ -1,0 +1,6 @@
+name: KeepSoulbound
+version: '${project.version}'
+main: tech.secretgarden.Main
+api-version: 1.18
+authors: [ ChuckLingBao ]
+description: plugin that depends on sf4, deathchest pro to keep soulbound items
